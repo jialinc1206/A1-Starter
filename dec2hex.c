@@ -16,7 +16,7 @@ int main(int argc, char* argv[]) {
     }
 
 
-    unsigned int population = (unsigned) atoi(argv[1]);
+    unsigned int base10 = (unsigned) atoi(argv[1]);
   
     // put your code here (use as many lines as you need)
 
