@@ -37,7 +37,7 @@ int main(int argc, char* argv[]) {
         else
             hexMod = mod + 'a' - 10;
 
-        printf("%c * 16^%d \n", hexMod, power);
+        printf("%c * 16^%d\n", hexMod, power);
         power++;
     }
 
